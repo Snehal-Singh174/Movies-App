@@ -1,16 +1,21 @@
-# movies_app
+<h1 align="center">Movies App</h1>
 
-A new Flutter project.
+<div align= "center">
+  <h4>Movies List with TMDB API</h4>
+</div>
 
-## Getting Started
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Snehal-Singh174/Movies-App/issues)
+[![Forks](https://img.shields.io/github/forks/Snehal-Singh174/Supabase-Flutter-Tutorial.svg?logo=github)](https://github.com/Snehal-Singh174/Movies-App/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Snehal-Singh174/Supabase-Flutter-Tutorial.svg?logo=github)](https://github.com/Snehal-Singh174/Movies-App/stargazers)
+[![Issues](https://img.shields.io/github/issues/Snehal-Singh174/Supabase-Flutter-Tutorial.svg?logo=github)](https://github.com/Snehal-Singh174/Movies-App/issues)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/snehal-singh-b5119817b/)
 
-This project is a starting point for a Flutter application.
+## :point_down: Support me here!
+<a href="https://www.buymeacoffee.com/Snehal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## :warning: TechStack/framework used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/)
+- [Android Studio](https://developer.android.com/studio)
