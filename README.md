@@ -19,3 +19,20 @@
 
 - [Flutter](https://flutter.dev/)
 - [Android Studio](https://developer.android.com/studio)
+
+## 🚀&nbsp; Installation
+1. Clone the repo and run it
+```
+$ git clone https://github.com/Snehal-Singh174/Movies-App.git
+$ cd Supabase-Flutter-Tutorial/
+$ flutter run
+```
+
+## :clap: And it's done!
+Feel free to mail me for any doubts/query 
+:email: singhsnehal174@gmail.com
+
+## :heart: Owner
+Made with :heart:&nbsp;  by [Snehal Singh](https://github.com/Snehal-Singh174)
+
+
