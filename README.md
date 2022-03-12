@@ -24,7 +24,7 @@
 1. Clone the repo and run it
 ```
 $ git clone https://github.com/Snehal-Singh174/Movies-App.git
-$ cd Supabase-Flutter-Tutorial/
+$ cd Movies-App/
 $ flutter run
 ```
 
